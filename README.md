@@ -1,6 +1,6 @@
 # Quotez
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8. It is a quote tracking app used to keep track of all the famous quotes you might have in your mind.As a user you will be able to input a quote and will also be able to upvote or downvote it.
 
 ## Development server
 
