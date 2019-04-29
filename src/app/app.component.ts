@@ -10,7 +10,7 @@ import { Quote } from './quote';
 export class AppComponent {
   
   quotes= [
-    new Quote (0, 'Democracy is to be neither master nor slave,,', 'Abraham Lincolin','Willen Shaw', 0, 0, new Date()),
+    new Quote (0, 'Democracy is to be neither master nor slave,,,', 'Abraham Lincolin','Willen Shaw', 0, 0, new Date()),
    ]
    addQuote(quote){
     
